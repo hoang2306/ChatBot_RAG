@@ -1,6 +1,6 @@
 # ChatBot_RAG
 
-![Uploading ảnh.png…]()
+![ảnh](https://github.com/user-attachments/assets/1eb810c1-e929-469b-b816-6edc9b151c01)
 
 
 Chat bot ứng dụng RAG để học có thể tận dụng được nguồn dữ liệu private bên ngoài 

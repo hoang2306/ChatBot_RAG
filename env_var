@@ -1,0 +1,3 @@
+
+MUSIC_DATA_FOLDER = './data/music_data'
+DISEASE_DATA_FOLDER = './data/disease_data'

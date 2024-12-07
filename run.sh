@@ -1,0 +1,1 @@
+python gradio_elastic_search.py -public 0 -domain 0 -model_ollama 4

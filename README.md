@@ -6,6 +6,15 @@ Công nghệ sử dụng
 * Langchain: tương tác với LLM
 * ElasticSearch: triển khai các thuật toán search
 * Gradio: triển khai chatbot
+* Ollama: host LLM trên local
+
+### Một số yêu cầu khi chạy
+
+* ChatBot được chạy trên local vì vậy, đảm bảo máy có GPU
+* Pull model LLM trên ollama về trước khi run
+* Có thể bổ sung thêm data
+* Có thể sử dụng các mô hình embeddings, llm ollama khác trong code
+* Có thể sử dụng các loại Elastic Search khác như: Hybrid, ...
 
 ### Cách chạy
 

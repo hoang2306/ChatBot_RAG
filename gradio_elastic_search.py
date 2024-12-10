@@ -106,6 +106,9 @@ gen_text_callback_handler = GenerateTextCallback()
 #     es_cloud_id=CLOUD_ID,
 #     index_name=INDEX_NAME,
 #     es_api_key=API_KEY,
+#     strategy=ElasticsearchStore.SparseVectorRetrievalStrategy(
+#        model_id=".elser_model_2"
+#     ),
 #     embedding=embeddings
 # )
 # print('done init es')
